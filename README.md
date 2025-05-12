@@ -30,15 +30,16 @@ Learn how to build a powerful Token Swap DApp on the Solana blockchain using Nex
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/create-a-solana-token-swap-dapp-with-next.js-or-like-jupiter-raydium-orca-and-lifinity)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/GGZFkBYLxAM?si=Zkr1ZvIyeZW0DgrW)
 
 ```
   WATCH: Setup & Demo Of Project
-  URL:
+  URL: https://www.theblockchaincoders.com/sourceCode/create-a-solana-token-swap-dapp-with-next.js-or-like-jupiter-raydium-orca-and-lifinity
+  VIDEO: https://youtu.be/GGZFkBYLxAM?si=Zkr1ZvIyeZW0DgrW
 ```
 
 #### Hostinger Deployment Online
@@ -84,13 +85,6 @@ All you need to follow the complete project and follow the instructions which ar
 ## Final Code Instruction
 
 If you download the final source code then you can follow the following instructions to run the Dapp successfully
-
-#### Setup Video
-
-```
-  WATCH: Setup & Demo Of Project
-  URL:
-```
 
 #### ALCHEMY
 
